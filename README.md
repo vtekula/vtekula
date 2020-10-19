@@ -3,6 +3,8 @@
 
 ![](https://media1.tenor.com/images/bda662acbfd7d1580620314b5e0f79ad/tenor.gif?itemid=3471710)
 
+### Learn to REST, Not QUIT!
+
 <!--
 **vtekula/vtekula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
